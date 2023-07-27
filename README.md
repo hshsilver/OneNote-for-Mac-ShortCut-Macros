@@ -6,6 +6,18 @@
 
 <img src="screenshot2.png" alt="screenshot2 alt" title="Screenshot2" width = 390 style="box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.32);border-radius: 15px;">
 
+# 🔗 Keyboard Maestro
+
+<img src="keyboardmaestro-128.png" alt="screenshot alt" title="Screenshot" width = 128 >
+
+一个在Mac上好用的自动操作软件。比系统自带的更强大全面。
+
+官方网站为：
+
+https://www.keyboardmaestro.com/main/
+
+基础教程略导入*.kmmacros文件即可使用本文的宏。
+
 # ⚠️ 前排提示
  - 我自己默认字体大小为14，而后的字体大小设置也以此为基础，你可以自行修改为自己喜欢的大小
  - 需要保持菜单栏展开状态，且选中的是“开始”
