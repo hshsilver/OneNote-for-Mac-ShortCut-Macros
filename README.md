@@ -1,7 +1,7 @@
-# ⚙OneNote Hot Keys for Font Operation
+# ⚙ OneNote Hot Keys for Font Operation
 ## Some Macros by using Keyboard Maestro
 
-# ⚙操作OneNote for Mac的字体的快捷键
+# ⚙ 操作OneNote for Mac的字体的快捷键
 ## 使用Keyboard Maestro制作的宏
 
 <img src="screenshot2.png" alt="screenshot2 alt" title="Screenshot2" width = 390 style="box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.32);border-radius: 15px;">
