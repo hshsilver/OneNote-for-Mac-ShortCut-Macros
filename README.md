@@ -1,14 +1,14 @@
 # ⚙ OneNote Hot Keys for Font Operation
-## Some Macros by using Keyboard Maestro
+Some Macros by using Keyboard Maestro
 
 # ⚙ 操作OneNote for Mac的字体的快捷键
-## 使用Keyboard Maestro制作的宏
+ 使用Keyboard Maestro制作的宏
 
-<img src="screenshot2.png" alt="screenshot2 alt" title="Screenshot2" width = 390 style="box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.32);border-radius: 15px;">
+<img src="images/screenshot2.png" alt="screenshot2 alt" title="Screenshot2" width = 390 style="box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.32);border-radius: 15px;">
 
 # 🔗 Keyboard Maestro
 
-<img src="keyboardmaestro-128.png" alt="screenshot alt" title="Screenshot" width = 128 >
+<img src="images/keyboardmaestro-128.png" alt="screenshot alt" title="Screenshot" width = 128 >
 
 一个在Mac上好用的自动操作软件。比系统自带的更强大全面。
 
@@ -22,10 +22,11 @@ https://www.keyboardmaestro.com/main/
  - 我自己默认字体大小为14，而后的字体大小设置也以此为基础，你可以自行修改为自己喜欢的大小
  - 需要保持菜单栏展开状态，且选中的是“开始”
  - 因为是模拟鼠标在窗口的相对左上角位置，需要在大窗口模式（能显示完整的菜单按钮的样子），否则可能点不到。
+ - 有一定可能你的显示设置或者软件版本不同导致宏执行的时候需要点击位置不同，那么你可以自行修改。
  - 会复制内容（所以会顶掉最近一个复制内容）。
  - 相邻操作需要稍微顿一下，根据电脑性能自行感知，例如1秒，否则会出现前后操作重叠而出错。
 
-<img src="screenshot.png" alt="screenshot alt" title="Screenshot" width = 390 style="box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.32);border-radius: 15px;">
+<img src="images/screenshot.png" alt="screenshot alt" title="Screenshot" width = 390 style="box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.32);border-radius: 15px;">
 
 # ℹ️ 具体指南
 
@@ -51,4 +52,4 @@ https://www.keyboardmaestro.com/main/
 修改字体颜色，对应RGBYVO（红绿蓝黄紫橙）
 
 
-<img src="screenshot3.png" alt="screenshot alt" title="Screenshot3" width = 150 style="box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.32);border-radius: 15px;">
+<img src="images/screenshot3.png" alt="screenshot alt" title="Screenshot3" width = 150 style="box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.32);border-radius: 15px;">
